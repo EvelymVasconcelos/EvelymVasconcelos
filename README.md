@@ -1,8 +1,8 @@
 <h1 align="center">Evelym Marinho</h1>
-<h3 align="center">Software Engineer Backend | Python | FastAPI | APIs REST</h3>
+<h3 align="center">Software Engineer Backend | Python | FastAPI | Java | Spring Boot | APIs REST</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00B894&center=true&vCenter=true&width=950&lines=Backend+Engineer+com+foco+em+Python+e+FastAPI;Mais+de+6+anos+com+APIs+REST+e+microsservicos;Qualidade%2C+escalabilidade+e+entrega+consistente" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00B894&center=true&vCenter=true&width=950&lines=Backend+Engineer+com+foco+em+Python+e+FastAPI;Tamb%C3%A9m+atuo+com+Java+e+Spring+Boot+em+sistemas+distribu%C3%ADdos;Mais+de+6+anos+de+experi%C3%AAncia+com+APIs+REST+e+microsservi%C3%A7os;Qualidade%2C+escalabilidade+e+entrega+consistente" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -17,26 +17,26 @@
 ---
 
 ## Sobre mim
-- Desenvolvedora backend com mais de 6 anos de experiencia em sistemas de tecnologia e varejo de alta volumetria
-- Forte atuacao em APIs REST, microsservicos e sistemas distribuidos
-- Dominio em Python, FastAPI, Java, Spring Boot, Kafka, Docker e Kubernetes
-- Foco em confiabilidade, seguranca, observabilidade e qualidade de software
-- Experiencia com testes automatizados (unitarios e E2E), CI/CD e boas praticas de engenharia
+- Desenvolvedora backend com mais de 6 anos de experiência em sistemas de tecnologia e varejo de alta volumetria
+- Forte atuação em APIs REST, microsserviços e sistemas distribuídos
+- Domínio em Python, FastAPI, Java, Spring Boot, Kafka, Docker e Kubernetes
+- Foco em confiabilidade, segurança, observabilidade e qualidade de software
+- Experiência com testes automatizados (unitários e E2E), CI/CD e boas práticas de engenharia
 
-## Experiencia profissional
-### Software Engineer | Backend - Sidia Instituto de Ciencia e Tecnologia
+## Experiência profissional
+### Software Engineer | Backend - Sidia Instituto de Ciência e Tecnologia
 `Jan 2022 - Presente | Manaus`
-- Evolucao de backend para produtos tecnologicos com alcance global
-- Desenvolvimento de APIs REST e microsservicos com Python/FastAPI e Java/Spring Boot
-- Solucoes assincronas orientadas a eventos com Apache Kafka
-- Conteinerizacao e orquestracao com Docker e Kubernetes
+- Evolução de backend para produtos tecnológicos com alcance global
+- Desenvolvimento de APIs REST e microsserviços com Python/FastAPI e Java/Spring Boot
+- Soluções assíncronas orientadas a eventos com Apache Kafka
+- Conteinerização e orquestração com Docker e Kubernetes
 
 ### Software Engineer | Backend - Bemol Digital
 `Ago 2019 - Jan 2022 | Manaus`
-- Desenvolvimento e sustentacao de produtos digitais de alta escala para varejo
-- Criacao de servicos e integracoes com Python e Java
-- Modelagem e otimizacao de consultas em bancos relacionais e nao relacionais
-- Atuacao em Azure e Databricks para solucoes orientadas ao negocio
+- Desenvolvimento e sustentação de produtos digitais de alta escala para varejo
+- Criação de serviços e integrações com Python e Java
+- Modelagem e otimização de consultas em bancos relacionais e não relacionais
+- Atuação em Azure e Databricks para soluções orientadas ao negócio
 
 ## Tech stack
 ### Backend e arquitetura
@@ -56,17 +56,17 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## Destaques academicos
-- **ICSCA 2026:** autora principal do artigo *E2E-CIFlow: An automated End-to-End testing process* (publicacao prevista na ACM Digital Library)
+## Destaques acadêmicos
+- **ICSCA 2026:** autora principal do artigo *E2E-CIFlow: An automated End-to-End testing process* (publicação prevista na ACM Digital Library)
 - **IEEE SEAI 2024:** autora principal do artigo *Agile Blueprint Model Method in the Software Development Process with Increment of Version* | DOI `10.1109/SEAI62072.2024.10674366`
-- **UFAM:** TCC aprovado com nota maxima (10) sobre participacao feminina em TI
+- **UFAM:** TCC aprovado com nota máxima (10) sobre participação feminina em TI
 
-## Formacao e idiomas
-- **Universidade Federal do Amazonas (UFAM):** Sistemas de Informacao (`Jun 2014 - Ago 2019`)
-- **Idiomas:** Portugues (nativo) e Ingles (avancado)
+## Formação e idiomas
+- **Universidade Federal do Amazonas (UFAM):** Sistemas de Informação (`Jun 2014 - Ago 2019`)
+- **Idiomas:** Português (nativo) e Inglês (avançado)
 
 ---
 
 <p align="center">
-  Aberta a oportunidades para Backend Python no Brasil.
+  Aberta a oportunidades para Backend Python ou Java no Brasil.
 </p>
